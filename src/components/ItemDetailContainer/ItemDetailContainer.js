@@ -30,7 +30,7 @@ const ItemDetailContainer =() => {
 
     if(loading) {
         return <div className='conteinerLista '>
-        <div className="chaotic-orbit">{ ChaoticOrbit } </div>
+        
         </div>
     }
 

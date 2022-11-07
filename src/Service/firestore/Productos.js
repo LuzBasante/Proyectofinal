@@ -1,6 +1,6 @@
 import { getDocs, collection, query, where } from 'firebase/firestore'
 import {getDoc, doc} from 'firebase/firestore'
-import { dataBase } from '../../Service/Firebase'
+import { dataBase } from '../firebase'
 import { createAdaptedProductFromFirestore } from '../../Adapter/adaptedproduct'
 
 
