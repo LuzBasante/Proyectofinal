@@ -16,18 +16,18 @@ const Navbar = () => {
                 </Link>
               </li>
               <li className='menu'  >
-              <Link id="item" to = '/category/Cremas'>
-                <p id="p">CREMAS</p>
+              <Link id="item" to = '/category/vans'>
+                <p id="p">VANS</p>
                 </Link>
               </li>
               <li className='menu' >
-              <Link id="item" to = '/category/Perfumes'>
-                <p id="p">LOCIONES</p>
+              <Link id="item" to = '/category/converse'>
+                <p id="p">CONVERSE</p>
               </Link>
               </li>
               <li className='menu' >
-              <Link id="item" to = '/category/Labiales'>
-                <p id="p">LABIALES</p>
+              <Link id="item" to = '/category/nike'>
+                <p id="p">NIKE</p>
               </Link>
               </li>
             </ul>
